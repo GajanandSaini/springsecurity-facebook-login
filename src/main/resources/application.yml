@@ -1,0 +1,10 @@
+spring:
+  application:
+    name: springsecurity-oauth-login
+  security:
+    oauth2:
+      client:
+        registration:
+          github:
+            clientId: Ov23liigBLn0npZOX1F2
+            clientSecret: ----
